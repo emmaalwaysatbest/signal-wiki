@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update Docs Home and Neural Magic pages (#7243)
