@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Update Discord and Contributing Guide URLs (#9270)
