@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Explorer with LanceDB, Actions and Docs updates (#7487)
