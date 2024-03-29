@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
